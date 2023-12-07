@@ -2,7 +2,7 @@
 
 ## Showcase of current bug in Bun test runner methods
 
-Current finding shows that bun does not respect the .only method for running exclusively one test if it has more tests above it.
+Current finding shows that, running `bun test` without the `-only` flag, does run tests until it finds the .only on one test.
 
 ![Bug](test.gif)
 

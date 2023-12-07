@@ -5,11 +5,11 @@ describe('', () => {
     const foo = ["foo", "bar"];
     expect(foo.length).toBe(2);
   });
-  test('Second test', () => {
+  test.only('Second test', () => {
     const foo = ["bar"];
     expect(foo.length).toBe(1);
   });
-  test.only('Third test"', () => {
+  test('Third test"', () => {
     const foo = ["foo"];
     expect(foo.length).toBe(1);
   });
