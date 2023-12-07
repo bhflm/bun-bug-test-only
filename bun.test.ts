@@ -5,7 +5,7 @@ describe('', () => {
     const foo = ["foo", "bar"];
     expect(foo.length).toBe(2);
   });
-  test.only('Second test', () => {
+  test('Second test', () => {
     const foo = ["bar"];
     expect(foo.length).toBe(1);
   });

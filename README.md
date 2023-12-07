@@ -24,3 +24,6 @@ check that console output reflects that tests above it are also run
 
 
 This project was created using `bun init` in bun v1.0.15. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+
+![discord thread link](https://discord.com/channels/876711213126520882/1182110262065631342/1182110262065631342)
