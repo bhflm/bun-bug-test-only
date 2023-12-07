@@ -4,7 +4,7 @@
 
 Current finding shows that bun does not respect the .only method for running exclusively one test if it has more tests above it.
 
-[bug](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRhcXdmMzMwbWxlcXlweGhkZGNzaG5jb3gzeDliNHRkYXhuMnlodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/URK24fgsBEhwTYL2OD/giphy.gif)
+[bug](https://giphy.com/gifs/URK24fgsBEhwTYL2OD)
 
 In order to reproduce the bug please run:
 
